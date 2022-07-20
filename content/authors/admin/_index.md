@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liangwang Ruan
+title: Heyuan Yao
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,12 +14,12 @@ organizations:
   url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Ph.D student from Peking University advised by Baoquan Chen.
+bio: I'm a Ph.D student from Peking University advised by Libin Liu.
 
 # Interests to show in About widget
 interests:
-- Physics-based Animation 
-- Computer Graphics
+- Physics-based Character Animation 
+- Rigidbody simulation
 
 # Education to show in About widget
 education:
@@ -27,7 +27,7 @@ education:
   - course: Ph.D student in Computer Science
     institution: Peking University
     year: from 2021
-  - course: B.S. in Artificial Intelligence
+  - course: B.S. in Computer Science, Turing Class
     institution: Peking University
     year: 2021
 
@@ -38,13 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ruanliangwang@pku.edu.cn'
+  link: 'mailto:heyuanyao@pku.edu.cn'
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/Lwruan
+  link: https://github.com/heyuanYao-pku
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -54,7 +54,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ruanliangwang@pku.edu.cn"
+email: "heyuanyao@pku.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -62,4 +62,4 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Liangwang Ruan(阮良旺) is a Ph.D student from [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/).
+Heyuan Yao(姚贺源) is a Ph.D student from [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Libin Liu](http://libliu.info/).
