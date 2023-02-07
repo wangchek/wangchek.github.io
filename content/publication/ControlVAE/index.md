@@ -61,6 +61,8 @@ featured: false
 links:
  - name: Video
    url: https://www.youtube.com/watch?v=ELZ7m4rLCgk
+ - name: Code
+   url: https://github.com/heyuanYao-pku/Control-VAE
 
 url_pdf: 'Control-VAE/static/author_version.pdf'
 url_code: ''
