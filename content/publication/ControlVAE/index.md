@@ -58,18 +58,18 @@ tags: [Physics-based Animation]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-#  - name: Video
-#    url: https://www.youtube.com/watch?v=3ejKNbtdfnY
+links:
+ - name: Video
+   url: https://www.youtube.com/watch?v=ELZ7m4rLCgk
 
-url_pdf: 'https://heyuanyao-pku.github.io/Control-VAE/static/author_version.pdf'
+url_pdf: 'Control-VAE/static/author_version.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://heyuanyao-pku.github.io/Control-VAE/'
+url_project: 'Control-VAE/'
 url_slides: ''
 url_source: ''
-url_video:  'https://www.youtube.com/watch?v=ELZ7m4rLCgk'
+# url_video:  'https://www.youtube.com/watch?v=ELZ7m4rLCgk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
