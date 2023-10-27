@@ -51,6 +51,7 @@ links:
    url: https://github.com/wangchek/MuscleVAE
 
 url_pdf: 'MuscleVAE/static/author_version.pdf'
+url_supp: 'MuscleVAE/static/appendix.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
