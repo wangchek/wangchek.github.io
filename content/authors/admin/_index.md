@@ -31,7 +31,7 @@ education:
     year: from 2022
   - course: B.S. in Physics, Qian Xuesen Honors College
     institution: Xi'an Jiaotong University
-    year: 2022
+    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,4 +64,4 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Yusen Feng (冯雨森) is a Ph.D student from [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Libin Liu](http://libliu.info/).
+I am Yusen Feng (冯雨森), a Ph.D student from [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Libin Liu](http://libliu.info/). I have a broad range of interests, with a particular focus on the control of physics-based character animation, biologically-plausible control design, and muscle actuator simulations. My interest in physics, especially mechanics and natural phenomena, was sparked in high school and further nurtured during my undergraduate studies. I also personally enjoy exploring physical phenomena related to fluids and soft bodies.

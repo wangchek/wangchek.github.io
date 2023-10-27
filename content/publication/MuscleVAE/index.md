@@ -50,11 +50,11 @@ links:
  - name: Code
    url: https://github.com/wangchek/MuscleVAE
 
-url_pdf: 'Control-VAE/static/author_version.pdf'
+url_pdf: 'Muscle-VAE/static/author_version.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'Control-VAE/'
+url_project: 'Muscle-VAE/'
 url_slides: ''
 url_source: ''
 # url_video:  'https://www.youtube.com/watch?v=ELZ7m4rLCgk'
