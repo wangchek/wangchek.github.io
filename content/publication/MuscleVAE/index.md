@@ -48,14 +48,14 @@ links:
  - name: Video
    url: https://www.youtube.com/watch?v=NO06GDPHto4/
  - name: Code
-   url: https://pku-mocca.github.io/MuscleVAE-page/
+   url: https://github.com/PKU-MoCCA/MuscleVAE
 
-url_pdf: 'MuscleVAE/static/MuscleVAE_author_version.pdf'
-url_supp: 'MuscleVAE/static/MuscleVAE_appendix_author_version.pdf'
+url_pdf: 'https://github.com/PKU-MoCCA/MuscleVAE-page/tree/main/static/MuscleVAE_author_version.pdf'
+url_supp: 'https://github.com/PKU-MoCCA/MuscleVAE-page/tree/main/static/MuscleVAE_appendix_author_version.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://pku-mocca.github.io/MuscleVAE/'
+url_project: 'https://github.com/PKU-MoCCA/MuscleVAE/'
 url_slides: ''
 url_source: ''
 # url_video:  'https://www.youtube.com/watch?v=ELZ7m4rLCgk'
