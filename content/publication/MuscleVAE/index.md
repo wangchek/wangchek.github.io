@@ -16,11 +16,11 @@ author_notes:
 - "Corresponding Authors"
 
 
-date: "2023-10-01T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: "https://doi.org/10.1145/3610548.3618137"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-13T00:00:00Z"
+publishDate: "2023-12-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -50,8 +50,8 @@ links:
  - name: Code
    url: https://github.com/PKU-MoCCA/MuscleVAE
 
-url_pdf: 'https://github.com/PKU-MoCCA/MuscleVAE-page/tree/main/static/MuscleVAE_author_version.pdf'
-url_supp: 'https://github.com/PKU-MoCCA/MuscleVAE-page/tree/main/static/MuscleVAE_appendix_author_version.pdf'
+url_pdf: ''
+url_supp: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
