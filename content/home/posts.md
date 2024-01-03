@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Volunteer
+title: Teaching
 subtitle:
 
 content:
@@ -39,5 +39,8 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
-- TA: [GAMES105](https://games-105.github.io/)
+- TA: [Programming in Artificial Intelligence, 2023 Fall](https://wangchek.github.io/)
+- TA: [Motion Control & Character Animation, 2023 Spring](https://wangchek.github.io/)
+- TA: [Introduction to Artificial Intelligence, 2023 Spring](https://wangchek.github.io/)
+- TA: [GAMES105, 2022 Fall](https://games-105.github.io/)
+- TA: [Introduction to Computer Science, 2022 Fall](https://wangchek.github.io/)
