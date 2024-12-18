@@ -21,6 +21,7 @@ interests:
 - Physics Simulation
 - Muscle Controller
 - Physics-based Character Animation
+- Robotics
 
 
 # Education to show in About widget
@@ -64,4 +65,4 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am Yusen Feng (冯雨森), a second year Ph.D student from [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Libin Liu](http://libliu.info/). I have a broad range of interests, with a particular focus on the control of physics-based character animation, biologically-plausible control design, and muscle actuator simulations. My interest in physics, especially mechanics and natural phenomena, was sparked in high school and further nurtured during my undergraduate studies. I also personally enjoy exploring physical phenomena related to fluids and soft bodies.
+I am Yusen Feng (冯雨森), a second year Ph.D student from [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Libin Liu](http://libliu.info/). I have a broad range of interests, with a particular focus on the robotics,  control of physics-based character animation, biologically-plausible control design, and muscle actuator simulations. 
