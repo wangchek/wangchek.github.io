@@ -57,11 +57,7 @@
       </div>
       {{ end }}
 
-      {{ if and $show_authors_only $item.Params.compact_authors }}
-      <div>
-        {{ $item.Params.compact_authors }}
-      </div>
-      {{ else if and $show_authors_only $item.Params.authors }}
+      {{ if and $show_authors_only $item.Params.authors }}
       <div>
         {{ partial "page_metadata_authors" $item }}
       </div>

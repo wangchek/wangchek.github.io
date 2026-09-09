@@ -4,7 +4,6 @@ title: "Mastering Multi-State Dynamics: Continuum Damage and Viscoplastic MPM fo
 authors:
 - admin
 - Shangbo Luan
-compact_authors: "Yusen Feng, Shangbo Luan"
 
 date: "2026-09-01T00:00:00Z"
 publishDate: "2026-09-01T00:00:00Z"

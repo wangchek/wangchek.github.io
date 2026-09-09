@@ -8,7 +8,6 @@ authors:
 - admin
 - Xiyan Xu
 - Libin Liu
-compact_authors: "Yusen Feng, Xiyan Xu, Libin Liu"
 
 # Author notes (optional)
 author_notes:

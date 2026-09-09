@@ -18,7 +18,6 @@ authors:
 - Yizhou Wang
 - Zhizheng Zhang
 - He Wang
-compact_authors: "Yusen Feng et al."
 
 date: "2026-07-08T00:00:00Z"
 publishDate: "2026-07-08T00:00:00Z"

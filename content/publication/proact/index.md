@@ -9,7 +9,6 @@ authors:
 - Biao Jiang
 - Hanyu Ji
 - Libin Liu
-compact_authors: "Zeyi Zhang, Zixi Kang, Ruijie Zhao, Yusen Feng, et al."
 
 date: "2026-09-03T00:00:00Z"
 publishDate: "2026-09-03T00:00:00Z"

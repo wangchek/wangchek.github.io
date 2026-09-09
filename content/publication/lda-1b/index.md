@@ -25,7 +25,6 @@ authors:
 - Li Yi
 - Yizhou Wang
 - He Wang
-compact_authors: "Jiangran Lyu, Kai Liu, Xuheng Zhang, Haoran Liao, Yusen Feng, et al."
 
 date: "2026-02-12T00:00:00Z"
 publishDate: "2026-02-12T00:00:00Z"

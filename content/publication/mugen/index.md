@@ -12,7 +12,6 @@ authors:
 - Ruijie Zhao
 - Baoquan Chen
 - Libin Liu
-compact_authors: "Yusen Feng et al."
 
 date: "2026-05-23T00:00:00Z"
 publishDate: "2026-05-23T00:00:00Z"
