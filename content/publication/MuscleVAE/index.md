@@ -8,6 +8,7 @@ authors:
 - admin
 - Xiyan Xu
 - Libin Liu
+compact_authors: "Yusen Feng, Xiyan Xu, Libin Liu"
 
 # Author notes (optional)
 author_notes:
@@ -36,7 +37,9 @@ abstract: "In this paper, we present a simulation and control framework for gene
 "
 
 # Summary. An optional shortened abstract.
-summary: We present MuscleVAE, a comprehensive muscle simulating and controlling framework with fatigue modelling embeded. Using model-based reinforcement learning, our framework can generate of high-fidelity motions and enable a variety of downstream tasks.
+summary: "**SIGGRAPH Asia 2023**"
+
+external_link: "https://pku-mocca.github.io/MuscleVAE-page/"
 
 tags: [Muscle Simulation, Physcics Character Animation]
 

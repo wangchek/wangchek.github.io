@@ -1,0 +1,59 @@
+// Keep the homepage publication list compact and visually consistent.
+#publications .media.stream-item {
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+#publications .media-body {
+  min-width: 0;
+}
+
+#publications .article-style {
+  margin-top: 0.2rem;
+}
+
+#publications .stream-meta {
+  margin-top: 0.45rem;
+  overflow: visible;
+  white-space: normal;
+}
+
+#publications .btn-links {
+  display: none;
+}
+
+#publications .media .ml-3 {
+  flex: 0 0 300px;
+  margin-left: 1.25rem !important;
+  text-align: center;
+}
+
+#publications .media .ml-3 img {
+  display: block;
+  width: 300px;
+  max-width: 300px;
+  height: 160px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 4px;
+}
+
+@media (max-width: 767px) {
+  #publications .media.stream-item {
+    align-items: stretch;
+    flex-direction: column-reverse;
+  }
+
+  #publications .media .ml-3 {
+    flex: none;
+    width: 100%;
+    margin: 0 0 0.9rem !important;
+  }
+
+  #publications .media .ml-3 img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: 220px;
+  }
+}
