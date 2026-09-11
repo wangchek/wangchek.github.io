@@ -6,7 +6,7 @@ title: Yusen Feng
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student
+role: Fifth-year Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a second year Ph.D student from Peking University advised by Libin Liu.
+bio: I'm a fifth-year Ph.D. student at Peking University advised by Libin Liu.
 
 # Interests to show in About widget
 interests:
@@ -65,4 +65,4 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am Yusen Feng (冯雨森), a second year Ph.D student from [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Libin Liu](http://libliu.info/). I have a broad range of interests, with a particular focus on the robotics,  control of physics-based character animation, biologically-plausible control design, and muscle actuator simulations. 
+I am Yusen Feng (冯雨森), a fifth-year Ph.D. student at [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn), Peking University, advised by [Prof. Libin Liu](http://libliu.info/). I have a broad range of interests, with a particular focus on the robotics, control of physics-based character animation, biologically-plausible control design, and muscle actuator simulations.
