@@ -8,9 +8,9 @@ authors:
 date: "2026-09-01T00:00:00Z"
 publishDate: "2026-09-01T00:00:00Z"
 publication_types: ["2"]
-publication: "In *Computer Graphics Forum (Pacific Graphics 2026)*"
-publication_short: "In *Pacific Graphics 2026*"
-summary: "Accepted to **Pacific Graphics 2026**"
+publication: "In *Computer Graphics Forum (Pacific Graphics 2026)* — **Best Student Paper Finalist**"
+publication_short: "In *Pacific Graphics 2026* — **Best Student Paper Finalist**"
+summary: "**Best Student Paper Finalist** at Pacific Graphics 2026"
 
 featured: false
 
