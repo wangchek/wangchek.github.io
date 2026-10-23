@@ -1,5 +1,6 @@
 ---
 title: "Mastering Multi-State Dynamics: Continuum Damage and Viscoplastic MPM for RL-Based Dexterous Manipulation"
+subtitle: "**Coming Soon**"
 
 authors:
 - admin
@@ -18,5 +19,3 @@ image:
   focal_point: "Center"
   preview_only: false
 ---
-
-## Coming Soon
