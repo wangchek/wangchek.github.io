@@ -27,7 +27,9 @@ publication: "In *ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 202
 publication_short: "In *SIGGRAPH Asia 2026*"
 summary: "Accepted to **SIGGRAPH Asia 2026**"
 
-external_link: "https://arxiv.org/abs/2602.14048"
+external_link: "https://proactrobot.github.io/"
+url_pdf: "https://arxiv.org/abs/2602.14048"
+url_project: "https://proactrobot.github.io/"
 featured: false
 
 image:
