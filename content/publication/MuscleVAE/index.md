@@ -17,7 +17,7 @@ author_notes:
 
 
 date: "2023-12-01T00:00:00Z"
-doi: "https://doi.org/10.1145/3610548.3618137"
+doi: "10.1145/3610548.3618137"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-13T00:00:00Z"
@@ -48,7 +48,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
  - name: Video
-   url: https://www.youtube.com/watch?v=NO06GDPHto4/
+   url: https://www.youtube.com/watch?v=NO06GDPHto4
  - name: Code
    url: https://github.com/PKU-MoCCA/MuscleVAE
 

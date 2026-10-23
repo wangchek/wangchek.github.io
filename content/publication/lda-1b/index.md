@@ -59,7 +59,7 @@ publication_short: "In *RSS 2026*"
 summary: "Accepted to **RSS 2026**"
 
 external_link: "https://pku-epic.github.io/LDA/"
-url_pdf: "https://arxiv.org/abs/2602.12215"
+url_pdf: "https://arxiv.org/pdf/2602.12215"
 url_project: "https://pku-epic.github.io/LDA/"
 featured: false
 

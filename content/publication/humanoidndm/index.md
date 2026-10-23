@@ -26,7 +26,6 @@ publication: "In *Conference on Robot Learning (CoRL 2026)*"
 publication_short: "In *CoRL 2026*"
 summary: "Accepted to **CoRL 2026**"
 
-url_pdf: "https://openreview.net/pdf?id=xcDyj95l5P"
 featured: false
 
 image:
