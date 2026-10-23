@@ -10,6 +10,15 @@ authors:
 - Hanyu Ji
 - Libin Liu
 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+-
+-
+-
+-
+
 date: "2026-09-03T00:00:00Z"
 publishDate: "2026-09-03T00:00:00Z"
 doi: "10.1145/3842576"

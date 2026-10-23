@@ -13,6 +13,18 @@ authors:
 - Baoquan Chen
 - Libin Liu
 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+-
+-
+-
+-
+-
+-
+-
+-
+
 date: "2026-05-23T00:00:00Z"
 publishDate: "2026-05-23T00:00:00Z"
 publication_types: ["3"]

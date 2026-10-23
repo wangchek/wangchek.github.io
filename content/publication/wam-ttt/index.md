@@ -19,6 +19,24 @@ authors:
 - Zhizheng Zhang
 - He Wang
 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
+
 date: "2026-07-08T00:00:00Z"
 publishDate: "2026-07-08T00:00:00Z"
 publication_types: ["1"]
