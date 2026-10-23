@@ -26,7 +26,8 @@ publication: "In *Conference on Robot Learning (CoRL 2026)*"
 publication_short: "In *CoRL 2026*"
 summary: "Accepted to **CoRL 2026**"
 
-external_link: "https://arxiv.org/abs/2607.06988"
+external_link: "https://wam-ttt.github.io/"
+url_pdf: "https://arxiv.org/abs/2607.06988"
 url_project: "https://wam-ttt.github.io/"
 featured: false
 
